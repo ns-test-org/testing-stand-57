@@ -78,7 +78,7 @@ export default function TodoApp() {
       <div className="max-w-2xl mx-auto">
         <div className="bg-white rounded-2xl shadow-xl p-8">
           <h1 className="text-4xl font-bold text-gray-800 text-center mb-8">
-            My Todo App
+            v2
           </h1>
           
           {/* Add new todo */}
@@ -197,4 +197,5 @@ export default function TodoApp() {
     </div>
   );
 }
+
 
